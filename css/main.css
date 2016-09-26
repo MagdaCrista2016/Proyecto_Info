@@ -1,14 +1,12 @@
-#titulo-azul {
-  height: 100px;
+#caja0 {
+
+  height: 80px;
   width: 300px;
   background: #2e86c1;
-
-
   border-radius: 10px 10px 10px 10px;
--moz-border-radius: 10px 10px 10px 10px;
--webkit-border-radius: 10px 10px 10px 10px;
-border: 0px solid #d0d3d4;
-border : 6px solid gray;
+  border: red;
+  border:   #d0d3d4 10px solid;
+  }
 }
 
 *{font-family: sans-serif;}
@@ -16,19 +14,19 @@ body {width:507px; border-style: dotted; border-width: 2px;}
 div {
 padding:7px; background-color:  #e74c3c ; width:250px; height:25px; position:absolute; }
 
-#caja1{ border-color:#e74c3c; top: 85px; left: 20px; height: 15px; }
-#caja2{  background-color: #ecf0f1;border-color: #ebedef; top: 135px; left: 20px; height: 7px;
+#caja1{ border-color:#e74c3c; top: 155px; left: 45px; height: 15px; }
+#caja2{  background-color: #ecf0f1;border-color: #ebedef; top: 238px; left: 20px; height: 7px;
 border-radius: 10px 10px 10px 10px;
 }
-#caja3{  background-color:  #d5dbdb; border-color: #ebedef; top: 150px; left: 20px; height: 7px;
+#caja3{  background-color:  #d5dbdb; border-color: #ebedef; top: 250px; left: 20px; height: 7px;
   height:1px;
 border-radius: 10px 10px 10px 10px;
 }
-#caja4{  background-color: #17202a; top: 149px; left: 250px;
+#caja4{  background-color: #17202a; top: 239px; left: 239px;
   height:1px; width: 1px;
 
 }
-#caja5{  background: #fbfcfc; top: 189px; left: 5px;
+#caja5{  background: #fbfcfc; top: 300px; left: 5px;
   height: 100px;
   width: 300px;
 
