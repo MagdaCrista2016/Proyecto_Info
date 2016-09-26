@@ -10,7 +10,7 @@
 }
 
 *{font-family: sans-serif;}
-body {width:507px; border-style: dotted; border-width: 2px;}
+body {width:507px;  border-width: 2px;}
 div {
 padding:7px; background-color:  #e74c3c ; width:250px; height:25px; position:absolute; }
 
@@ -28,14 +28,8 @@ hr { top: 225px;
   margin-left: 50%;
   margin-right: 25%
 }
-#caja4{  background-color: #17202a; top: 239px; left: 239px;
-  height:1px; width: 1px;
 
-}
-#caja5{  background: #fbfcfc; top: 300px; left: 5px;
+#caja4{  background: #fbfcfc; top: 240px; left: 25px;
   height: 100px;
   width: 300px;
-
-
-
 }
