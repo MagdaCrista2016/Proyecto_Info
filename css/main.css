@@ -15,12 +15,18 @@ div {
 padding:7px; background-color:  #e74c3c ; width:250px; height:25px; position:absolute; }
 
 #caja1{ border-color:#e74c3c; top: 180px; left: 45px; height: 15px; }
-#caja2{  background-color: #ecf0f1;border-color: #ebedef; top: 238px; left: 20px; height: 7px;
-border-radius: 10px 10px 10px 10px;
+
+#caja2{  background-color: #ecf0f1;border-color: #ebedef; top: 215px; left:38px; height: 7px; width: 265px}
+
+#caja3{  background-color:  #d5dbdb; border-color: #ebedef; top: 225px; left: 38px; height: 1px; width: 265px;
+border-radius: 10px 10px 10px;
 }
-#caja3{  background-color:  #d5dbdb; border-color: #ebedef; top: 250px; left: 20px; height: 7px;
-  height:1px;
-border-radius: 10px 10px 10px 10px;
+
+hr { top: 225px;
+  background-color: red;
+  height: 10px;
+  margin-left: 50%;
+  margin-right: 25%
 }
 #caja4{  background-color: #17202a; top: 239px; left: 239px;
   height:1px; width: 1px;
