@@ -88,8 +88,38 @@ transform: rotate(45deg);
   width: 80px;
 }
 
-hr {
-    height: 1px;
-    border: 0;
-    background-color: red;
+#linea1{  background:    #17202a; top: 450px; left: 0px;
+  height: 1 px;
+  width: 340px;
+}
+#linea2{  background:     #f7f9f9; top: 452px; left: 0px;
+  height: 1 px;
+  width: 340px;
+}
+#Parte2{  background:    #f7f9f9; top: 455px; left: 0px;
+  height: 20px;
+  width: 340px;
+}
+
+#Edificio1{  background:  #5dade2; top: 590px; left: 30px;
+  height: 50px;
+  width: 30px;
+}
+#Edificio2{  background:  #e74c3c; top: 570px; left: 90px;
+  height: 70px;
+  width: 30px;
+}
+#sol{  background:     #f7dc6f; top: 525px; left: 50px;
+  height: 11px;
+  width: 8px;
+  border-radius: 70px 70px 70px 70px;
+}
+#botonnegro{  background:    #17202a ; top: 525px; left: 210px;
+  height: 120px;
+  width: 120px;
+  border-radius: 70px 70px 70px 70px;
+}
+#Ventana1{  background:#f9e79f; top: 573px; left: 92px;
+  height: 0px;
+  width: 0px;
 }
