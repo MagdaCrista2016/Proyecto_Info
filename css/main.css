@@ -14,7 +14,7 @@ body {width:507px; border-style: dotted; border-width: 2px;}
 div {
 padding:7px; background-color:  #e74c3c ; width:250px; height:25px; position:absolute; }
 
-#caja1{ border-color:#e74c3c; top: 155px; left: 45px; height: 15px; }
+#caja1{ border-color:#e74c3c; top: 180px; left: 45px; height: 15px; }
 #caja2{  background-color: #ecf0f1;border-color: #ebedef; top: 238px; left: 20px; height: 7px;
 border-radius: 10px 10px 10px 10px;
 }
